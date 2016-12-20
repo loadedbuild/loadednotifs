@@ -1,0 +1,7 @@
+2
+||| 
+Version 1.8 of the Loaded Build is out now, along with our new Wizard!
+
+Install the Wizard from: system -> add-ons -> install from zip file -> loaded -> loadedwizard.zip
+
+Once installed navigate to my add-ons -> program add-ons -> Loaded Wizard
